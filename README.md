@@ -1,0 +1,1 @@
+I've learned how to create a git repository and clone it on a local machine. Also I've learned how to build a basic HTML site.
